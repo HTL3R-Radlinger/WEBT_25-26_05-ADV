@@ -1,0 +1,19 @@
+{
+  "name": "responsive-sass-project",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass src/scss/main.scss src/css/style.css",
+    "watch": "sass --watch src/scss/main.scss src/css/style.css"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  },
+  "devDependencies": {
+    "sass": "^1.77.0"
+  }
+}
