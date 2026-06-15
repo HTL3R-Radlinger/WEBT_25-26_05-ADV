@@ -4,14 +4,14 @@
 
 Install dependencies:
 
-npm install
+`npm install`
 
 ## Development
 
 Compile SASS:
 
-npm run sass
+`npm run sass`
 
 Watch changes:
 
-npm run watch
+`npm run watch`
